@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
-p:first-line{
+div:first-line{
+	color:red;
+}
+p:last-child{
 	color:red;
 }
