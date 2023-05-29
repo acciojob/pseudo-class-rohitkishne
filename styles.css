@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-div:first-line{
+p:first-line{
 	color:rgb(255, 0, 0);
 }
 p:last-child{
